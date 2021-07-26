@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 abcdefgh
-=======
 abcdefg
->>>>>>> rock
